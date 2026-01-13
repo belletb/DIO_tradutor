@@ -1,0 +1,7 @@
+sounddevice
+scipy
+git+https://github.com/openai/whisper.git
+torch
+openai
+gtts
+pygame
