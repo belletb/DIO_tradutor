@@ -1,4 +1,4 @@
-# 🌍 Tradutor de Voz em Tempo Real (PT → EN)
+# Tradutor de Voz em Tempo Real 
 
 Tradutor de voz em tempo real que grava áudio em português, transcreve, traduz para inglês e reproduz a tradução em áudio.
 
